@@ -1,0 +1,10 @@
+This task was done to monitor and made some analysis to an analog signal by converting it to a digital signal in an array form them stored it in the flash memory and converting it to analog again with different sampling freuency using DAC(Digital to analog) circuit which connected to the GPIOA Pins from PIN0 to PIN7  
+
+this link contains :
+-Proteus simulation src code
+-some photos 
+
+https://drive.google.com/drive/folders/1CETQqNyy1uEFCHJK9T-8UgRJfarP5Urt?usp=sharing
+
+
+have fun ;))))))))
